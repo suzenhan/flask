@@ -6,9 +6,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/flask/app.py" line="581" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64583cb3-4d74-4a6d-845c-b5f8544c7dee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="64583cb3-4d74-4a6d-845c-b5f8544c7dee" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +18,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/flask/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
@@ -32,11 +30,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/flask/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="101" column="13" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
+            <state relative-caret-position="133">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#197#232#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -204,12 +205,12 @@
       <workItem from="1565925396743" duration="258000" />
       <workItem from="1565925704050" duration="77000" />
       <workItem from="1565925848333" duration="8886000" />
-      <workItem from="1565947821679" duration="3415000" />
+      <workItem from="1565947821679" duration="4234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14905000" />
+    <option name="totallyTimeSpent" value="15724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-619" y="-1057" width="1920" height="1057" extended-state="0" />
@@ -320,6 +321,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#197#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/flask/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -327,13 +338,6 @@
           <folding>
             <element signature="e#182#191#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/flask/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="101" column="13" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
         </state>
       </provider>
     </entry>
