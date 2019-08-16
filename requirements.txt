@@ -1,0 +1,4 @@
+Werkzeug==0.15
+Jinja2==2.10
+itsdangerous==0.24
+Click==5.1
